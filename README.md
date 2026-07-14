@@ -6,15 +6,15 @@ I'm **Luca Carlo**, a student at Brigham Young University-Idaho interested in **
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- 📖 **I'm currently learning:** Advanced frontend development, object-oriented programming (OOP), and system design.
-- 🎯 **My goals are to:** Graduate with my Bachelor's degree in Applied Technology / Software Development and build highly scalable, user-centric software.
-- 💬 **Ask me about:** Clean code principles, web styling, building responsive web applications.
+- **I'm currently learning:** Advanced frontend development, object-oriented programming (OOP), and system design.
+- **My goals are to:** Graduate with my Bachelor's degree in Applied Technology / Software Development and build highly scalable, user-centric software.
+- **Ask me about:** Clean code principles, web styling, building responsive web applications.
 
 ---
 
-## 🛠️ Technologies and Tools
+## Technologies and Tools
 
 - **Proficient in:** HTML5, CSS3, JavaScript (ES6+), Python, C#, and SQL.
 - **Skills:** Git & GitHub version control, Agile methodologies, responsive web design, and database normalization.
@@ -31,7 +31,7 @@ I'm **Luca Carlo**, a student at Brigham Young University-Idaho interested in **
 
 ---
 
-## 📬 Let's Connect!
+## Let's Connect!
 
 I am always excited to connect with other developers, students, and tech professionals. Let's build something great together!
 
