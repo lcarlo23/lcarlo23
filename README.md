@@ -45,6 +45,12 @@ I'm **Luca Carlo**, a student at Brigham Young University-Idaho interested in **
 
 ---
 
+## GitHub Statistics
+
+[![Luca's GitHub stats](https://github-stats-extended.vercel.app/api?username=lcarlo23)](https://github.com/stats-organization/github-stats-extended)
+
+---
+
 ## Let's Connect!
 
 I am always excited to connect with other developers, students, and tech professionals. Let's build something great together!
