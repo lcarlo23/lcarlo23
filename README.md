@@ -31,6 +31,20 @@ I'm **Luca Carlo**, a student at Brigham Young University-Idaho interested in **
 
 ---
 
+## Featured Work & Projects
+
+### 👨‍💻 Full-Stack & IT Consulting (2014 - Present)
+- **15+ Custom Web Tools:** Built and deployed responsive web tools and custom solutions for startups and local businesses.
+- **Workflow Automation:** Optimized databases (MySQL/PostgreSQL) and integrated RESTful APIs, reducing client manual entry time by 10 hours/week.
+
+### 🚀 Co-Founded Ventures
+- **Kolob - Push the Limit:** Designed web infrastructure, handled system scaling, and automated marketing flows.
+- **Interso Films:** Configured IT infrastructure, secure local storage solutions (NAS/SAN), and redundant backup pipelines.
+
+*(You can check my repositories below to see my academic projects and public codebases!)*
+
+---
+
 ## Let's Connect!
 
 I am always excited to connect with other developers, students, and tech professionals. Let's build something great together!
